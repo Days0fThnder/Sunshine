@@ -5,5 +5,5 @@ package com.example.j_rus.sunshine.util;
  */
 public class Constants {
 
-    public static final String OPEN_WEATHER_MAP_API_KEY = "5970e94970a75980cedb7f99a59d8c95";
+    public static final String OPEN_WEATHER_MAP_API_KEY = "To obtain an API key got to http://openweathermap.org/appid";
 }
